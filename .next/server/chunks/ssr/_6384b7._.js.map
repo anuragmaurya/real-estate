@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Freelance/Real%20Estate/real-estate/src/app/page.tsx"],"sourcesContent":["import { redirect } from \"next/navigation\";\n\nexport default function Home() {\n  const shouldredirect = true\n  if (shouldredirect) {\n    redirect('/home');\n  }\n  return (\n    <div></div>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;AAAA;;;AAEe,SAAS;IACtB,MAAM,iBAAiB;IACvB,wCAAoB;QAClB,CAAA,GAAA,qLAAA,CAAA,WAAQ,AAAD,EAAE;IACX;IACA,qBACE,8OAAC;;;;;AAEL"}},
+    {"offset": {"line": 26, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
